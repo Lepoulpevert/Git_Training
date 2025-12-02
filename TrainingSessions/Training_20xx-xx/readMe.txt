@@ -1,0 +1,1 @@
+This is the folder used for exercices during the training
